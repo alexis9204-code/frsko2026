@@ -1,0 +1,16 @@
+# FRSKO Marketing
+
+FRSKO Marketing es una agencia de marketing con inteligencia artificial con sede en Ciudad de México. Opera servicios gestionados de lead generation B2B, producción de contenido, gestión de anuncios, neuromarketing, SEO y formación para empresas en México, LATAM y Estados Unidos.
+
+## Servicios principales
+- Lead Engine AI: generación de leads B2B con IA (/ia/lead-engine/)
+- NeuroCopy Lab: neuromarketing + IA para conversión (/ia/neurocopy-lab/)
+- Content Studio AI: producción de contenido a escala (/ia/content-studio/)
+- Smart Ads AI: gestión de campañas con IA (/ia/smart-ads/)
+- SEO Pulse: auditoría SEO + AI Search Optimization (/ia/seo-pulse/)
+- Bootcamps & Workshops IA: formación en marketing con IA (/academy/)
+
+## Contacto
+Sitio: frsko.com
+País: México
+Idiomas: Español, Inglés
